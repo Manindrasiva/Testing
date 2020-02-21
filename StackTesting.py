@@ -4,7 +4,7 @@ class StackTesting:
 
      s=Stack()
      s.push(1)
-     s.push(2)
+     s.push(44)
 
      print(s.size())
      s.pop()
